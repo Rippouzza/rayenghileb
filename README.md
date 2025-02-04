@@ -8,13 +8,13 @@
 
 - 🌱 Currently improving my **AI & Web Development** skills  
 - 🚀 Working on **Machine Learning & Computer Vision** projects  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **rayen.ghileb9363@istic.ucar.tn**  
 
 ---
 
 ## 🔗 Connect with me:  
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank">
+<a href="www.linkedin.com/in/rayen-ghileb-a02747337" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
