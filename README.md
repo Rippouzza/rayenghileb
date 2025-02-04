@@ -14,7 +14,7 @@
 
 ## 🔗 Connect with me:  
 <p align="left">
-<a href="www.linkedin.com/in/rayen-ghileb-a02747337" target="blank">
+<a href="https://www.linkedin.com/in/rayen-ghileb/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -46,5 +46,5 @@
 ## 📊 GitHub Stats  
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayenghileb&show_icons=true&locale=en&layout=compact" alt="rayenghileb" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rippouzza&show_icons=true&locale=en&layout=compact" alt="rayenghileb" />
 </p>
